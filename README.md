@@ -10,6 +10,8 @@ All contributions, documentation improvements, enhancements and ideas are welcom
 - [Absurd Illustrations](https://absurd.design/)
 - [Humaaans](https://www.humaaans.com/)
 - [いらすとや](https://www.irasutoya.com/)
+- [ILLUST NAVI](https://illust-navi.com/)
+- [Linustock](https://www.linustock.com/) 
 
 ## 📝WHERE TO LEARN
 ### 💻ONLINE COURSES
